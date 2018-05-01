@@ -24,4 +24,4 @@ Use the Mediator pattern when
 **Related Patterns**
 
 - [Facade](https://github.com/andreidana/FacadeExample)
-- Observer
+- [Observer](https://github.com/andreidana/ObserverPattern)
